@@ -4,7 +4,7 @@
 [![Dependencies](https://david-dm.org/solvvy/redact-pii.svg)](https://david-dm.org/solvvy/redact-pii)
 
 > **NOTE**: Users of redact-pii@2.x.x please check the [Changelog](CHANGELOG.md) before upgrading .
-
+This version of the product is forked to update dependancies 
 Remove personally identifiable information from text. 
 
 ### Prerequesites
